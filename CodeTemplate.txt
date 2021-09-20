@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//CHANGE ME: Minecraft
+//Taesung Spencer
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (there is a block in front of the player) {
+    //jump over it
 } else {
-    //Add event below
+    //walk without jumping
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (the player is in water) {
+    //swim upwards
 } else {
-    //Add event below
+    //swim downwards
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (the player is stuck in a cave) {
+    //mine upwards
 } else {
-    //Add event below
+    //mine downwards
 }
 
 
